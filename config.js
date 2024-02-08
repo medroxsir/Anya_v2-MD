@@ -63,15 +63,15 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
+  botname: process.env.BotName || "𝐂𝚫𝚻 𝐒𝚸𝐘", 
+  author: process.env.Author || "@𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷",
   packname: process.env.PackName || "Queen Anya v2 MD",
-  socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  socialLink: process.env.Web || "null",
+  footer: process.env.Footer || "© 𝐂𝚫𝚻 𝐒𝚸𝐘 Bot",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  ownername: process.env.Owner_Name || "𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷",
+  ownernumber: process.env.Owner_Number || "917034167123",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
@@ -105,15 +105,15 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
+global.botname = process.env.BotName || "𝐂𝚫𝚻 𝐒𝚸𝐘" 
+global.author = process.env.Author || "@𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷" 
 global.packname = process.env.PackName || "Queen Anya v2 MD" 
-global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.myweb = process.env.Web || "null" 
+global.footer = process.env.Footer || "© 𝐂𝚫𝚻 𝐒𝚸𝐘 Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
+global.ownername = process.env.Owner_Name || "𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷" 
+global.ownernumber = process.env.Owner_Number || "917034167123" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
@@ -130,5 +130,5 @@ global.Tips = [
 global.image_1 = readFileSync('./lib/Assets/image_1.jpg') // Thumbnail for allmenu command
 global.image_2 = readFileSync('./lib/Assets/image_2.jpg') // null image
 global.image_3 = readFileSync("./lib/Assets/image_3.jpg") // Thumbnail for Dashboard
-global.menu_pic = "https://i.ibb.co/PhDcZTM/Thumbnail.png";
+global.menu_pic = "https://i.imgur.com/jYZsEpv.jpeg";
 

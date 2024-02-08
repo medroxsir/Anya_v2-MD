@@ -8,11 +8,11 @@
   "stack": "container",
   "env": {
        "BotName": {
-           "description": "Enter your desired bot\"s name (Ex:- Queen Anya)",
+           "description": "Enter your desired bot\"s name (Ex:- 𝐂𝚫𝚻 𝐒𝚸𝐘)",
            "required": true
        },
        "Footer": {
-           "description": "Enter a watermark for your bot\"s messages (Ex:- ? Queen Anya)",
+           "description": "Enter a watermark for your bot\"s messages (Ex:- ? 𝐂𝚫𝚻 𝐒𝚸𝐘)",
            "required": true
        },
        "Prefix": {
@@ -20,7 +20,7 @@
            "required": true
        },
        "Owner_Name": {
-           "description": "Enter a name for bot\"s owner (Ex:- Pika~Kun)",
+           "description": "Enter a name for bot\"s owner (Ex:- 𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷)",
            "required": true
        },
        "Owner_Number": {
@@ -36,19 +36,19 @@
            "required": true
        },
        "Insta": {
-           "description": "Enter your Instagram user Id (Ex:- 3.69_pika)",
+           "description": "Enter your Instagram user Id (Ex:- 3.69_𝐂𝚫𝚻 𝐒𝚸𝐘)",
            "required": false
        },
        "Author": {
-           "description": "Enter a name for sticker\"s owner name (Ex:- PikaBotz)",
+           "description": "Enter a name for sticker\"s owner name (Ex:- 𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷)",
            "required": false
        },
        "PackName": {
-           "description": "Enter a packname for stickers (Ex:- Queen Anya Stickers)",
+           "description": "Enter a packname for stickers (Ex:- 𝐂𝚫𝚻 𝐒𝚸𝐘 Stickers)",
            "required": false
        },
        "Web": {
-           "description": "Enter your any social platform link (Ex:- https://github.com/PikaBotz)",
+           "description": "Enter your any social platform link (Ex:- https://github.com/medroxsir/queen anya)",
            "required": false
        },
        "ThemeEmoji": {
